@@ -1,89 +1,142 @@
-<!-- =============== HERO SECTION =============== -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:312E81,100:06B6D4&height=220&section=header&text=Dhiraj%20Bhosale&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=ENTC%20Engineer%20%7C%20Developer%20in%20Progress&descSize=17&descAlignY=58" width="100%" alt="Profile banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:312E81,100:06B6D4&height=220&section=header&text=Dhiraj%20Bhosale&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Embedded%20Systems%20%7C%20IoT%20%7C%20Software%20Engineering&descSize=16&descAlignY=58" width="100%" alt="Dhiraj Bhosale profile banner"/>
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=650&lines=Building+Projects+That+Solve+Real+Problems;Exploring+AI+%26+Software+Engineering;Learning+Every+Day+%7C+Building+Every+Week;Electronics+Meets+Software" alt="Animated typing introduction"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=700&lines=Electronics+Meets+Software;Building+Real-World+Engineering+Projects;Arduino+%7C+ESP32+%7C+IoT;Exploring+Backend+Development+%26+AI" alt="Animated introduction"/>
 
-<p>
-  <img src="https://img.shields.io/badge/Focus-Software%20%26%20AI-06B6D4?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Background-ENTC-7C3AED?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Mindset-Always%20Learning-22C55E?style=for-the-badge"/>
-</p>
+<br/>
+
+<img src="https://img.shields.io/badge/Embedded%20Systems-Arduino%20%7C%20ESP32-00979D?style=for-the-badge" alt="Embedded systems"/>
+<img src="https://img.shields.io/badge/Interest-IoT%20%26%20AI-7C3AED?style=for-the-badge" alt="IoT and AI"/>
+<img src="https://img.shields.io/badge/Mindset-Learn%20%7C%20Build%20%7C%20Improve-06B6D4?style=for-the-badge" alt="Engineering mindset"/>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 👋 About Me
 
-```yaml
-name: Dhiraj Bhosale
-education: Electronics & Telecommunication Engineering
-based_in: Maharashtra, India
-interests:
-  - Software Development
-  - Artificial Intelligence
-  - Backend Development
-  - Real-World Engineering Projects
-mindset: Learn -> Build -> Test -> Improve
-```
+Hey, I'm **Dhiraj Bhosale**!
 
-I'm an engineering student who enjoys exploring how technology can solve real-world problems.
+🎓 An Electronics and Telecommunication Engineering student with a hands-on background in electronics, embedded systems, sensors, and hardware prototyping.
 
-My interests span software development, AI-powered applications, and the intersection of electronics and computing. I'm focused on turning what I learn into practical projects and continuously improving my engineering skills.
+My engineering journey started with building hardware projects during my diploma. My major project was an **RC Boat-Based Water Pollution Monitoring System**, combining microcontrollers, wireless communication, and water-quality sensors.
 
-* 🔭 **Building:** Practical software and AI project prototypes
-* 🌱 **Learning:** Programming, Git, GitHub, backend systems, and databases
-* 🧠 **Exploring:** Intelligent applications and automation
-* 🎯 **Goal:** Become a skilled engineer who builds useful, reliable technology
-* 🤝 **Open to:** Learning, collaboration, and meaningful projects
+Now, I'm expanding my skills into backend development, databases, and AI-powered applications while continuing to explore the intersection of hardware and software.
+
+- 🔌 **Embedded Systems:** Arduino Uno, ESP32, and sensor interfacing
+- 🌊 **IoT Project:** RC boat-based water-quality monitoring prototype
+- 📡 **Communication:** Bluetooth-based hardware communication
+- 💻 **Software:** Exploring backend development, APIs, and databases
+- 🤖 **AI:** Interested in intelligent applications and early-warning systems
+- 🎯 **Goal:** Build practical, reliable technology that solves real-world problems
 
 ---
 
-## ⚡ Tech Stack & Tools
+## 🛠️ Tech Stack & Engineering Toolkit
 
-*Technologies I'm learning and exploring:*
+### 🔌 Embedded Systems & IoT
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
+<p>
+<img src="https://img.shields.io/badge/Arduino%20Uno-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino Uno"/>
+<img src="https://img.shields.io/badge/ESP32-323232?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32"/>
+<img src="https://img.shields.io/badge/IoT-Internet%20of%20Things-0EA5E9?style=for-the-badge" alt="IoT"/>
+<img src="https://img.shields.io/badge/Sensor-Interfacing-16A34A?style=for-the-badge" alt="Sensor interfacing"/>
+<img src="https://img.shields.io/badge/Bluetooth-Wireless%20Communication-2563EB?style=for-the-badge" alt="Bluetooth communication"/>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Programming-Learning-informational?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Databases-Exploring-informational?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-Exploring-informational?style=flat-square"/>
+### 🌊 Water-Quality Monitoring
+
+<p>
+<img src="https://img.shields.io/badge/TDS%20Sensor-Water%20Quality-0284C7?style=for-the-badge" alt="TDS sensor"/>
+<img src="https://img.shields.io/badge/Turbidity%20Sensor-Water%20Clarity-0891B2?style=for-the-badge" alt="Turbidity sensor"/>
+<img src="https://img.shields.io/badge/pH%20Sensor-Water%20Testing-16A34A?style=for-the-badge" alt="pH sensor"/>
 </p>
+
+### 💻 Software & Development
+
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown"/>
+<img src="https://img.shields.io/badge/Backend%20Development-Exploring-7C3AED?style=for-the-badge" alt="Backend development"/>
+<img src="https://img.shields.io/badge/Databases-Exploring-0891B2?style=for-the-badge" alt="Databases"/>
+</p>
+
+*My software toolkit will grow as I gain more hands-on experience.*
 
 ---
 
-## 🚀 Projects & Experiments
+## 🚀 Featured Engineering Projects
 
-### 🩺 Doctor–Patient Follow-up & Medicine Reminder System
+### 🌊 1. RC Boat-Based Water Pollution Monitoring System
 
-A project concept designed to help doctors maintain patient visit records and help patients remember their prescribed medicine schedules.
+**My diploma major project | Embedded Systems & IoT**
 
-**Planned focus:** Patient history, prescription records, scheduled reminders, and a simple patient reminder experience.
+A hardware prototype designed to monitor selected water-quality parameters using an RC boat platform.
 
-### 🤖 AI Project Monitoring & Early Warning System
+**Hardware and components**
+- Arduino Uno
+- ESP32
+- Bluetooth module
+- TDS sensor
+- Turbidity sensor
+- pH sensor
+- Additional electronic and hardware components
 
-An engineering project exploring how project information can be used to identify potential risks and provide early warnings.
+**Engineering concepts**
+- Water-quality parameter sensing
+- Microcontroller and sensor integration
+- Wireless communication
+- Hardware prototyping and system integration
 
-**Planned focus:** Project monitoring, risk indicators, alerts, and clear status reporting.
+**Objective:** Explore a mobile approach to collecting water-quality readings from water bodies.
 
-### 🎓 CampusConnect — Education Management Platform
+> This project monitors selected water-quality indicators; sensor readings alone do not identify every type of water pollution.
 
-An idea for a multi-institution platform connecting educational administrators, teachers, and students.
+**Project documentation:** Add prototype photos, circuit diagrams, source code, and test results when available.
 
-**Planned focus:** Institution management, attendance, academic resources, and role-based access.
+---
 
-> These descriptions represent project concepts and development goals. I'll update them with actual features, screenshots, and live demos as the projects progress.
+### 🤖 2. ProTrack — AI-Based Project Monitoring & Early Warning System
+
+A software engineering project focused on project monitoring and identifying potential project risks at an early stage.
+
+**Key areas**
+- Project, task, and milestone management
+- Backend REST API development
+- PostgreSQL database and Prisma ORM
+- Authentication and role-based access control
+- Risk-analysis service integration and notifications
+
+**Technology stack:** Node.js, Express.js, TypeScript, PostgreSQL, Prisma ORM, and Firebase Cloud Messaging.
+
+*My focus is backend development, database integration, and API implementation.*
+
+---
+
+### 🩺 3. Doctor–Patient Follow-up & Medicine Reminder System
+
+A healthcare application concept designed to help doctors maintain patient visit and prescription records while helping patients remember prescribed medicine schedules.
+
+**Planned areas**
+- Patient profiles and visit history
+- Prescription and medicine schedules
+- Morning, afternoon, and evening reminders
+- Follow-up appointment dates
+- Patient-side reminder delivery
+
+---
+
+### 🎓 4. CampusConnect — Education Management Platform
+
+An education technology concept focused on connecting institutions, administrators, teachers, and students through a multi-institution platform.
+
+**Planned areas**
+- Role-based access
+- Attendance management
+- Notes and academic resources
+- Assignments, timetables, and notices
 
 ---
 
@@ -93,7 +146,9 @@ An idea for a multi-institution platform connecting educational administrators, 
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages"/>
+
+<br/>
 
 <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
 
@@ -101,30 +156,41 @@ An idea for a multi-institution platform connecting educational administrators, 
 
 ---
 
-## 🐍 Contribution Journey
+## 🐍 My Contribution Journey
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" width="100%"/>
+<img src="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake animation"/>
 
 </div>
 
-*The snake animation requires a separate GitHub Actions setup. Follow the instructions in Step 4 below to enable it.*
+*The contribution snake requires a GitHub Actions workflow and an `output` branch. Until configured, this image may not display.*
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="center">
-  <a href="https://github.com/YOUR-USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <!-- Add your LinkedIn URL when ready -->
-  <!--
-  <a href="YOUR-LINKEDIN-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  -->
+<div align="center">
+
+<a href="https://github.com/YOUR-USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
+</a>
+
+<!-- Add your LinkedIn profile when ready -->
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 Electronics Meets Software. Ideas Become Engineering.
+
+*Learn continuously. Build practically. Improve relentlessly.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:312E81,100:0F172A&height=110&section=footer" width="100%" alt="Profile footer"/>
+
+</div>
 </p>
 
 <div align="center">
