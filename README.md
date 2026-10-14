@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:312E81,100:06B6D4&height=220&section=header&text=Dhiraj%20Bhosale&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Embedded%20Systems%20%7C%20IoT%20%7C%20Software%20Engineering&descSize=16&descAlignY=58" width="100%" alt="Dhiraj Bhosale profile banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:312E81,100:06B6D4&height=220&section=header&text=Dhiraj%20Bhosale&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Computer%20Science%20%7C%20AIML%20%7C%20Software%20Engineering&descSize=16&descAlignY=58" width="100%" alt="Dhiraj Bhosale profile banner"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=700&lines=Electronics+Meets+Software;Building+Real-World+Engineering+Projects;Arduino+%7C+ESP32+%7C+IoT;Exploring+Backend+Development+%26+AI" alt="Animated introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=700&lines=Computer+Science+%26+Engineering;Artificial+Intelligence+%26+Machine+Learning;Building+Real-World+Software+Projects;Software+%7C+AI+%7C+Embedded+Systems" alt="Animated introduction"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/Embedded%20Systems-Arduino%20%7C%20ESP32-00979D?style=for-the-badge" alt="Embedded systems"/>
-<img src="https://img.shields.io/badge/Interest-IoT%20%26%20AI-7C3AED?style=for-the-badge" alt="IoT and AI"/>
-<img src="https://img.shields.io/badge/Mindset-Learn%20%7C%20Build%20%7C%20Improve-06B6D4?style=for-the-badge" alt="Engineering mindset"/>
+<img src="https://img.shields.io/badge/Degree-Computer%20Science%20%26%20Engineering-2563EB?style=for-the-badge" alt="Computer Science and Engineering"/>
+<img src="https://img.shields.io/badge/Minor-AIML-7C3AED?style=for-the-badge" alt="Artificial Intelligence and Machine Learning"/>
+<img src="https://img.shields.io/badge/Background-Embedded%20Systems-00979D?style=for-the-badge" alt="Embedded systems"/>
 
 </div>
 
@@ -18,22 +18,42 @@
 
 Hey, I'm **Dhiraj Bhosale**!
 
-🎓 An Electronics and Telecommunication Engineering student with a hands-on background in electronics, embedded systems, sensors, and hardware prototyping.
+🎓 Currently pursuing a degree in **Computer Science & Engineering**, with a minor in **Artificial Intelligence and Machine Learning (AIML)**.
 
-My engineering journey started with building hardware projects during my diploma. My major project was an **RC Boat-Based Water Pollution Monitoring System**, combining microcontrollers, wireless communication, and water-quality sensors.
+I'm passionate about software engineering, AI-powered applications, backend development, and building technology that solves real-world problems.
 
-Now, I'm expanding my skills into backend development, databases, and AI-powered applications while continuing to explore the intersection of hardware and software.
+My engineering journey began with a diploma in Electronics & Telecommunication, where I gained hands-on experience with microcontrollers, sensors, wireless communication, and hardware prototyping. My diploma major project was an **RC Boat-Based Water Pollution Monitoring System**.
 
-- 🔌 **Embedded Systems:** Arduino Uno, ESP32, and sensor interfacing
-- 🌊 **IoT Project:** RC boat-based water-quality monitoring prototype
-- 📡 **Communication:** Bluetooth-based hardware communication
-- 💻 **Software:** Exploring backend development, APIs, and databases
-- 🤖 **AI:** Interested in intelligent applications and early-warning systems
-- 🎯 **Goal:** Build practical, reliable technology that solves real-world problems
+Now, I'm expanding my knowledge of computer science, backend systems, databases, and intelligent applications while building on my practical electronics background.
+
+- 💻 **Computer Science:** Software development and problem-solving
+- 🤖 **AIML:** Exploring AI and machine learning applications
+- ⚙️ **Backend Engineering:** REST APIs, databases, and server-side development
+- 🔌 **Embedded Systems & IoT:** Arduino Uno, ESP32, and sensor integration
+- 🚀 **Project Building:** Turning engineering ideas into practical solutions
+- 🎯 **Goal:** Become a versatile software engineer who builds useful and reliable technology
 
 ---
 
 ## 🛠️ Tech Stack & Engineering Toolkit
+
+### 💻 Computer Science & Software Development
+
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown"/>
+<img src="https://img.shields.io/badge/Backend%20Development-Exploring-7C3AED?style=for-the-badge" alt="Backend development"/>
+<img src="https://img.shields.io/badge/Databases-Exploring-0891B2?style=for-the-badge" alt="Databases"/>
+</p>
+
+### 🤖 Artificial Intelligence & Machine Learning
+
+<p>
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-Exploring-7C3AED?style=for-the-badge" alt="Artificial intelligence"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-Learning-2563EB?style=for-the-badge" alt="Machine learning"/>
+<img src="https://img.shields.io/badge/AI%20Applications-Project%20Development-06B6D4?style=for-the-badge" alt="AI applications"/>
+</p>
 
 ### 🔌 Embedded Systems & IoT
 
@@ -53,27 +73,37 @@ Now, I'm expanding my skills into backend development, databases, and AI-powered
 <img src="https://img.shields.io/badge/pH%20Sensor-Water%20Testing-16A34A?style=for-the-badge" alt="pH sensor"/>
 </p>
 
-### 💻 Software & Development
-
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown"/>
-<img src="https://img.shields.io/badge/Backend%20Development-Exploring-7C3AED?style=for-the-badge" alt="Backend development"/>
-<img src="https://img.shields.io/badge/Databases-Exploring-0891B2?style=for-the-badge" alt="Databases"/>
-</p>
-
-*My software toolkit will grow as I gain more hands-on experience.*
+*I'll continue adding specific programming languages, frameworks, and tools as I develop more hands-on experience with them.*
 
 ---
 
-## 🚀 Featured Engineering Projects
+## 🚀 Featured Projects
 
-### 🌊 1. RC Boat-Based Water Pollution Monitoring System
+### 🤖 1. ProTrack — AI-Based Project Monitoring & Early Warning System
 
-**My diploma major project | Embedded Systems & IoT**
+**Focus: Backend Engineering | Database Systems | AI Integration**
 
-A hardware prototype designed to monitor selected water-quality parameters using an RC boat platform.
+A collaborative engineering project designed to monitor project progress and identify potential risks early.
+
+**Key areas**
+- Project, task, milestone, and dependency management
+- REST API development and backend architecture
+- PostgreSQL database with Prisma ORM
+- Authentication and role-based authorization
+- AI risk-analysis service integration
+- Notifications and backend integration
+
+**Technology stack:** Node.js, Express.js, TypeScript, PostgreSQL, Prisma ORM, REST APIs, and Firebase Cloud Messaging.
+
+**My contribution:** Backend development, API implementation, database integration, and testing.
+
+---
+
+### 🌊 2. RC Boat-Based Water Pollution Monitoring System
+
+**Diploma Major Project | Embedded Systems | IoT**
+
+A hardware prototype developed to monitor selected water-quality parameters using an RC boat platform.
 
 **Hardware and components**
 - Arduino Uno
@@ -92,47 +122,35 @@ A hardware prototype designed to monitor selected water-quality parameters using
 
 **Objective:** Explore a mobile approach to collecting water-quality readings from water bodies.
 
-> This project monitors selected water-quality indicators; sensor readings alone do not identify every type of water pollution.
+> The prototype monitors selected water-quality indicators; it does not detect every type of water pollution.
 
-**Project documentation:** Add prototype photos, circuit diagrams, source code, and test results when available.
-
----
-
-### 🤖 2. ProTrack — AI-Based Project Monitoring & Early Warning System
-
-A software engineering project focused on project monitoring and identifying potential project risks at an early stage.
-
-**Key areas**
-- Project, task, and milestone management
-- Backend REST API development
-- PostgreSQL database and Prisma ORM
-- Authentication and role-based access control
-- Risk-analysis service integration and notifications
-
-**Technology stack:** Node.js, Express.js, TypeScript, PostgreSQL, Prisma ORM, and Firebase Cloud Messaging.
-
-*My focus is backend development, database integration, and API implementation.*
+**Documentation:** Project photos, circuit diagrams, source code, and testing results can be added as they become available.
 
 ---
 
 ### 🩺 3. Doctor–Patient Follow-up & Medicine Reminder System
 
-A healthcare application concept designed to help doctors maintain patient visit and prescription records while helping patients remember prescribed medicine schedules.
+**Focus: Healthcare Technology | Application Development**
+
+A project concept intended to help doctors maintain patient visit and prescription records while helping patients remember prescribed medicine schedules.
 
 **Planned areas**
 - Patient profiles and visit history
 - Prescription and medicine schedules
 - Morning, afternoon, and evening reminders
-- Follow-up appointment dates
+- Follow-up appointment scheduling
 - Patient-side reminder delivery
 
 ---
 
 ### 🎓 4. CampusConnect — Education Management Platform
 
-An education technology concept focused on connecting institutions, administrators, teachers, and students through a multi-institution platform.
+**Focus: Education Technology | Multi-Institution Applications**
+
+An education management platform concept for connecting institutions, administrators, teachers, and students.
 
 **Planned areas**
+- Multi-institution support
 - Role-based access
 - Attendance management
 - Notes and academic resources
@@ -164,7 +182,7 @@ An education technology concept focused on connecting institutions, administrato
 
 </div>
 
-*The contribution snake requires a GitHub Actions workflow and an `output` branch. Until configured, this image may not display.*
+*The contribution snake requires a GitHub Actions workflow and an `output` branch. Configure the workflow before expecting this animation to appear.*
 
 ---
 
@@ -176,7 +194,7 @@ An education technology concept focused on connecting institutions, administrato
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
 </a>
 
-<!-- Add your LinkedIn profile when ready -->
+<!-- Add your LinkedIn profile URL here when ready -->
 
 </div>
 
@@ -184,15 +202,13 @@ An education technology concept focused on connecting institutions, administrato
 
 <div align="center">
 
-### 💡 Electronics Meets Software. Ideas Become Engineering.
+### 💡 Think. Build. Innovate.
 
-*Learn continuously. Build practically. Improve relentlessly.*
+*Combining computer science, AI, and engineering to solve real-world problems.*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:312E81,100:0F172A&height=110&section=footer" width="100%" alt="Profile footer"/>
 
 </div>
-</p>
-
 <div align="center">
 
 ### 💡 Learn continuously. Build fearlessly. Improve relentlessly.
